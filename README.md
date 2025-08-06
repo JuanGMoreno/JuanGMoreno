@@ -14,10 +14,6 @@ Soy **Desarrollador Frontend** apasionado por crear aplicaciones web modernas, i
 - 📧 Email: juguimo16@gmail.com
 - 💼 LinkedIn: [Juan Guillermo Moreno Gálvez](https://www.linkedin.com/in/juan-guillermo-moreno-galvez-9a42a7330)
 
-## 💡 Sobre mí
-Soy desarrollador frontend especializado en React.js, Next.js y Tailwind CSS, enfocado en crear interfaces web intuitivas, escalables y optimizadas.
-
----
 
 
 
