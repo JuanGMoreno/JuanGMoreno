@@ -1,71 +1,71 @@
-<h1 align="center">¡Hola! 👋 Soy Juan Moreno</h1>
-<h3 align="center">Desarrollador Full-Stack enfocado en crear aplicaciones web modernas</h3>
+<h1 align="center">Hola, soy Juan Moreno</h1>
+
+<h3 align="center">Desarrollador Full-Stack orientado a crear aplicaciones web claras, funcionales y mantenibles.</h3>
 
 <p align="center">
-Me apasiona el desarrollo web y el proceso de transformar ideas en aplicaciones funcionales. 
-Disfruto aprender constantemente, mejorar mis habilidades y participar en proyectos que aporten soluciones reales.
+  Me gusta transformar ideas en productos digitales que resuelvan problemas reales, cuidando tanto la experiencia de usuario como la calidad técnica del sistema.
 </p>
 
-<br>
+<p align="center">
+  <a href="mailto:juguimo16@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/juan-guillermo-moreno-galvez-9a42a7330">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-<h3 align="center">🛠 Tecnologías</h3>
+---
 
-<div align="center">
+### Sobre mí
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40"/>
+- Desarrollo aplicaciones web full-stack con enfoque en interfaces modernas, APIs limpias y bases de datos bien estructuradas.
+- Disfruto aprender de forma constante y aplicar buenas prácticas para escribir código legible, escalable y fácil de mantener.
+- Me interesa construir soluciones útiles, con atención al detalle y una experiencia de usuario sencilla.
 
-</div>
-
-<br>
-
-<h3 align="center">📫 Contacto</h3>
+### Stack principal
 
 <div align="center">
 
-<a href="mailto:juguimo16@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/juan-guillermo-moreno-galvez-9a42a7330">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+<img width="10" />
+<img src="https://cdn.simpleicons.org/express/FFFFFF" height="40" alt="Express" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="PostgreSQL" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS" />
 
 </div>
 
-<br>
+### Áreas de trabajo
 
-<h3 align="center">📈 Actividad en GitHub</h3>
+| Frontend | Backend | Datos y despliegue |
+| --- | --- | --- |
+| React, Next.js, TypeScript, interfaces responsivas | Node.js, Express, APIs REST, validaciones | PostgreSQL, modelado de datos, AWS |
+
+### GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanGMoreno&theme=dracula"/>
-
-<img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=JuanGMoreno&theme=dracula"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/JuanGMoreno/JuanGMoreno/output/snake.svg"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JuanGMoreno&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="Estadísticas de GitHub de Juan Moreno" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGMoreno&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Lenguajes más usados de Juan Moreno" />
 
 </div>
+
+---
+
+<p align="center">
+  Abierto a colaborar en proyectos web donde la tecnología tenga un impacto práctico y el código sea parte de una solución bien pensada.
+</p>
