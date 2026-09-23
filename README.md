@@ -1,5 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy Juan Moreno</h1>
-<h3 align="center">Desarrollador Full-Stack enfocado en crear aplicaciones web modernas</h3>
+![Juan Guillermo Moreno — Full-Stack Developer](assets/github-readme-header.png)
 
 <p align="center">
 Me apasiona el desarrollo web y el proceso de transformar ideas en aplicaciones funcionales. 
