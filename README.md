@@ -7,50 +7,48 @@
   </picture>
 </p>
 
-Soy **ingeniero en Ciencias Informáticas** y desarrollador **full-stack**. Construyo productos web de extremo a extremo: desde el modelado de datos y las APIs hasta interfaces claras y accesibles. Me importan la arquitectura mantenible y que el software resuelva problemas reales.
+Soy **desarrollador full-stack** e ingeniero en Ciencias Informáticas. Tengo **más de dos años de experiencia desarrollando aplicaciones web**, desde APIs y datos hasta interfaces cuidadas. Me gusta convertir problemas reales en software claro, útil y mantenible.
 
 <p align="center">
-  <a href="https://mi-portafolio-bay-eta.vercel.app/es">Portafolio ES</a> ·
-  <a href="https://mi-portafolio-bay-eta.vercel.app/en">Portfolio EN</a> ·
-  <a href="https://mi-portafolio-bay-eta.vercel.app/docs/CV_Juan_Guillermo_Moreno.pdf">CV ES</a> ·
-  <a href="https://mi-portafolio-bay-eta.vercel.app/docs/CV_Juan_Guillermo_Moreno_EN.pdf">CV EN</a> ·
-  <a href="https://www.linkedin.com/in/juan-guillermo-moreno-galvez-9a42a7330/">LinkedIn</a> ·
-  <a href="mailto:juguimo16@gmail.com">Contacto</a>
+  <a href="https://mi-portafolio-bay-eta.vercel.app/es"><img src="https://img.shields.io/badge/Portafolio-075985?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Ver portafolio" /></a>
+  <a href="https://mi-portafolio-bay-eta.vercel.app/docs/CV_Juan_Guillermo_Moreno.pdf"><img src="https://img.shields.io/badge/Descargar_CV-2563EB?style=for-the-badge" alt="Descargar CV en español" /></a>
+  <a href="https://www.linkedin.com/in/juan-guillermo-moreno-galvez-9a42a7330/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Ver LinkedIn" /></a>
+  <a href="mailto:juguimo16@gmail.com"><img src="https://img.shields.io/badge/Email-0E7490?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Escribirme por correo" /></a>
 </p>
 
-## Trabajo seleccionado
+<p align="center">
+  También disponible en inglés: <a href="https://mi-portafolio-bay-eta.vercel.app/en">portfolio</a> · <a href="https://mi-portafolio-bay-eta.vercel.app/docs/CV_Juan_Guillermo_Moreno_EN.pdf">CV</a>
+</p>
 
-### Crisal · gestión comercial full-stack
+## 🚀 Proyectos destacados
 
-[![Pantalla principal de Crisal, sistema de gestión comercial](assets/crisal.webp)](https://crisal-bi-gestion-de-venta-directa.vercel.app)
+### Crisal · gestión comercial
 
-Sistema para un negocio de venta directa que reúne productos, clientes, ventas e inventario. Desarrollé la aplicación y una API REST por capas con autenticación JWT; la lógica de stock por lotes conserva la trazabilidad incluso al anular una venta.
+<a href="https://crisal-bi-gestion-de-venta-directa.vercel.app"><img src="assets/crisal.webp" width="460" alt="Pantalla principal de Crisal, sistema de gestión comercial" /></a>
 
-**Stack:** Next.js, TypeScript, Node.js, Express y PostgreSQL.
+Construí este sistema full-stack para gestionar ventas, clientes e inventario de un negocio de venta directa.
 
-[Ver aplicación](https://crisal-bi-gestion-de-venta-directa.vercel.app) · [Explorar código](https://github.com/JuanGMoreno/Crisal_Bi_Gestion_de_venta_directa)
+[![Ver demo de Crisal](https://img.shields.io/badge/Ver_demo-0891B2?style=flat-square&logo=vercel&logoColor=white)](https://crisal-bi-gestion-de-venta-directa.vercel.app) [![Ver código de Crisal](https://img.shields.io/badge/Ver_c%C3%B3digo-1E293B?style=flat-square&logo=github&logoColor=white)](https://github.com/JuanGMoreno/Crisal_Bi_Gestion_de_venta_directa)
 
-### Valhalla · experiencia web para restauración
+### Valhalla · experiencia web
 
-[![Página de inicio de Valhalla](assets/valhalla.webp)](https://fron-end-valhalla.vercel.app/)
+<a href="https://fron-end-valhalla.vercel.app/"><img src="assets/valhalla.webp" width="460" alt="Página de inicio de Valhalla" /></a>
 
-Diseñé e implementé el frontend de esta experiencia para un bar-restaurante. Incluye una capa de servicios que permite trabajar con datos de prueba o una API, estados de carga y error, y animaciones que respetan la preferencia de movimiento reducido.
+Diseñé y desarrollé el frontend de un bar-restaurante, con una interfaz visual y animaciones accesibles.
 
-**Stack:** Next.js, TypeScript, Tailwind CSS y Motion.
-
-[Ver aplicación](https://fron-end-valhalla.vercel.app/) · [Explorar código](https://github.com/JuanGMoreno/fron-end-Valhalla)
+[![Ver demo de Valhalla](https://img.shields.io/badge/Ver_demo-0891B2?style=flat-square&logo=vercel&logoColor=white)](https://fron-end-valhalla.vercel.app/) [![Ver código de Valhalla](https://img.shields.io/badge/Ver_c%C3%B3digo-1E293B?style=flat-square&logo=github&logoColor=white)](https://github.com/JuanGMoreno/fron-end-Valhalla)
 
 ### BK-Studio · colaboración frontend
 
-[![Página de inicio del estudio de arquitectura BK-Studio](assets/bk-studio.webp)](https://bk-studio-bay.vercel.app/)
+<a href="https://bk-studio-bay.vercel.app/"><img src="assets/bk-studio.webp" width="460" alt="Página de inicio del estudio de arquitectura BK-Studio" /></a>
 
-Sitio bilingüe para presentar proyectos de arquitectura y renders. Sobre una base de código existente, contribuí con secciones nuevas, corrección de errores y el despliegue; la experiencia incluye una galería interactiva.
+Colaboré en secciones, correcciones y despliegue de este portafolio bilingüe para un estudio de arquitectura.
 
-**Stack:** React, TypeScript, Tailwind CSS y Vite.
+[![Ver demo de BK-Studio](https://img.shields.io/badge/Ver_demo-0891B2?style=flat-square&logo=vercel&logoColor=white)](https://bk-studio-bay.vercel.app/) [![Ver código de BK-Studio](https://img.shields.io/badge/Ver_c%C3%B3digo-1E293B?style=flat-square&logo=github&logoColor=white)](https://github.com/JuanGMoreno/BK-Studio)
 
-[Ver aplicación](https://bk-studio-bay.vercel.app/) · [Explorar código](https://github.com/JuanGMoreno/BK-Studio)
+Más contexto sobre estos proyectos y otros trabajos en mi [portafolio](https://mi-portafolio-bay-eta.vercel.app/es#projects).
 
-## Herramientas con las que trabajo
+## 🧰 Herramientas con las que trabajo
 
 **Frontend** · React, Next.js, TypeScript, Tailwind CSS
 
@@ -64,13 +62,6 @@ Sitio bilingüe para presentar proyectos de arquitectura y renders. Sobre una ba
 
 ![Iconos de AWS, Docker y Git](https://skillicons.dev/icons?i=aws,docker,git&theme=dark)
 
-## Experiencia
+## 🤝 Hablemos
 
-- **Soluciones Nimrod · desarrollador full-stack** (jun. 2025 – jul. 2026). Colaboré en un equipo remoto de producto empresarial, desarrollando interfaces con React y Next.js, integrando APIs REST y trabajando con servicios de AWS. Uno de los productos relacionados es **Taskrod**; su código no es público.
-- **Freelance · desarrollador full-stack** (ene. 2023 – ene. 2024). Desarrollé soluciones para clientes desde los requisitos hasta el despliegue, entre ellas Crisal, y colaboré en BK-Studio.
-
-Puedes ampliar el contexto de cada proyecto y mi trayectoria en el [portafolio](https://mi-portafolio-bay-eta.vercel.app/es#experience).
-
-## Hablemos
-
-Estoy abierto a oportunidades y colaboraciones donde pueda aportar tanto en backend como en frontend. Puedes escribirme a [juguimo16@gmail.com](mailto:juguimo16@gmail.com) o contactar conmigo por [LinkedIn](https://www.linkedin.com/in/juan-guillermo-moreno-galvez-9a42a7330/).
+¿Tienes una oportunidad o una idea en mente? Escríbeme a [juguimo16@gmail.com](mailto:juguimo16@gmail.com) o conversemos por [LinkedIn](https://www.linkedin.com/in/juan-guillermo-moreno-galvez-9a42a7330/).
